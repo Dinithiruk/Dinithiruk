@@ -7,5 +7,22 @@ Welcome to my GitHub account! 🚀 I'm Dinithi Rukshani, an innovative developer
 🌐Connect with me on LinkedIn and check out my content on YouTube. 
 ✨Let's build, create, and explore together! 
 
+##Skills and Expereinces 
+Frontend Technologies 
+* HTML,CSS,JavaScript
+* React.js
+* Vue.js
+
+Backend Technologies
+* MySQL , Python, java , php
+
+Testing Tools and lanaguages 
+* Selenium with Java
+* JUnit testing
+* Pytest
+* UI testing
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinithiruk&theme=dark&show_icons=true)
+
+
 
